@@ -1,0 +1,20 @@
+WEBSITE TO DO: 
+- Font: Georgia, Times New Roman
+- link Github 
+
+
+index
+- Limit height of div boxes to ~200px (scroll bar) ** Check how this looks on mobile too
+- fix content when Project and Interest pages are done
+- add images
+
+
+projects
+- Add projects
+- Filter/keyword
+- Create/Link individual project detail pages
+
+interests
+- content? layout? fix everything...
+- Prof Reis quote
+- http://inhabitat.com/12-gorgeous-prefab-homes-assembled-in-just-three-days-or-less/

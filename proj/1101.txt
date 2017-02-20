@@ -1,0 +1,18 @@
+In this project, we designed and 3D-printed porous structures that were inspired by beaver dams. We then designed an experiment to:
+- measure water flow through the structures, 
+- determine the permeability constant for structures of different porosities (defined as negative-space), 
+- and check if Darcy's Law applies. 
+
+Design: 
+The original motivation was to study structures that comprised of randomly-arranged individual units, similarly to how beaver dams include a non-uniform collection of sticks. Does randomization and a lack of pattern affect the theoretical water flow through the structure? 
+
+Ultimately we chose to focus on a simple 3D printed structure. We used the Grasshopper extension to Rhino 3D CAD software to randomly generate arrangements of snticks at different densities. We classified each arrangement by it's porosity, here defined to be the negative-space around the sticks, but within the rectangular bounding box of the entire structure. 
+
+Materials: We re-purposed an existing water channel and available water pumps for our testing. The greatest cost was the cost of material for 3D printing, at $7 per square inch. 
+
+Testing: Our testing procedure involved:
+- 
+
+and almost 9 in^3 
+
+The new numbers are: 8.75 in^3 of material and 16 hrs. of print time
