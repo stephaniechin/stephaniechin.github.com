@@ -1,0 +1,29 @@
+<h3>30 before 30</h3>
+			Inspired by <href a="https://kethompson.wordpress.com/">The Truly Educated Never Graduate's</href> Kate Thompson (whom I've had the priveledge of studying under at PROMYS 2012!), I've made a master bucket list for the next 10 years spanning professional, artistic, and life goals: 
+			<!--/ Professional /-->
+			<ol>
+			<br> <p>PROFESSIONAL GOALS</p>
+				<li>Graduate with at least a 4.8 GPA</li>
+				<li>Get a masters degree (engineering or business)</li>
+				<li>Get FE and PE certifications</li>
+				<li>Become fluent in Chinese and/or Spanish</li>
+			<!--/ Artistic /-->
+
+			<br> <p>ARTISTIC GOALS</p>			
+				<li>Knit a hexaflexagon</li>
+				<li>Wear a self-made dress/outfit to a special occasion</li>
+				<li>Perform a fire spinning art to the song "Firebird" by Galantis</li>
+			
+			<!--/ Life /-->
+
+			<br> <p>LIFE GOALS</p>			
+				<li>Visit every administrative division of China (as of Aug 2018: 22 provinces, 4 municipalities, 5 autonomous regions, and 2 Special Administrative Regions) plus Taiwan</li>
+				<li>Live a zero-waste lifestyle for 1 month -- less than 1 jar of trash for the entire month</li>
+				<li>De-junk -- Own at most 1 suitcase of non-electronic stuff</li>
+				<li>Complete a month-long, daily health/fitness class/routine (yoga, pilates, meditation, tai chi, etc.)</li>
+				<li>Keep a journal</li>
+				<li>Figure out what I want to do in life</li>
+			<br>
+			</ol>
+			
+		</div>

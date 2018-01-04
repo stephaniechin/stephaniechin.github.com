@@ -1,20 +1,18 @@
-WEBSITE TO DO: 
-- Font: Georgia, Times New Roman
+WEBSITE TO DO:
+- update resume 
 - link Github 
-
-
-index
-- Limit height of div boxes to ~200px (scroll bar) ** Check how this looks on mobile too
-- fix content when Project and Interest pages are done
-- add images
-
+- Linked In, Github, and CV logo/link on top right of menu bar?
+- seelio??? 
 
 projects
 - Add projects
 - Filter/keyword
 - Create/Link individual project detail pages
+- adjust spacing/margins. adjust 50%/50% split?
 
 interests
-- content? layout? fix everything...
+- make link logos bigger
+- add pictures and remove text
 - Prof Reis quote
 - http://inhabitat.com/12-gorgeous-prefab-homes-assembled-in-just-three-days-or-less/
+- add content, books, etc
