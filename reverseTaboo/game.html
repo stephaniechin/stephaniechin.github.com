@@ -1,0 +1,75 @@
+<!-- Written by Grace and Stephanie, Dec 16, 2020 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Thing Explainer Reverse-Taboo Game</title>
+<style type="text/css">h4{text-align: center}</style>
+
+<!-- <script type="module">
+    import {wordlist} from "./wordlist.js";
+    alert(wordlist);
+</script> -->
+
+<script type = "text/javascript" src="functions_game.js"></script>
+</head>
+<body>
+	<div id="banner">
+		<h3>Thing Explainer Reverse-Taboo Game</h3>
+		<div id="box">
+
+				<p align="left">This is a word game based on Taboo and inspired by "Thing Explainer", by Randall Munroe of the comic XKCD. The cluer (Person 1) is given a word that they must clue, and everyone else must guess the word based on the clue. The catch -- the cluer can only use words that are among the most common words used in English! </p>
+				<!-- https://xkcd.com/thing-explainer/ -->
+
+				<p>Tips for the cluer:</p>
+				<ul>
+					<li> Click "Check your clue" to remove not-allowed words. </li>
+					<li> Numbers and punctuation will be ignored. Type name of numbers (e.g. "one" instead of "1"). </li>
+				</ul>
+
+				<center>
+				<h4>Person 1: Type your clue here</h4>
+				<form name="form1">
+					<p>Enter your phrase: <input type="text" id="input1ID" name="input1" size="40"></p>
+					<p><input type="button" value="Check your clue" onClick="checkClue()"></p>
+					<p><input type="button" value="Submit your clue" onClick="submitClue()"></p>
+					<p><input type="button" value="Clear textbox" onClick="clear1()"></p>
+				</form>
+
+
+
+				<h4>Top 3,000 words 
+					<a href="https://www.ef.edu/english-resources/english-vocabulary/top-3000-words/">
+						(Source: ef.edu)
+					</a>
+				</h4>
+				<!-- https://www.ef.edu/english-resources/english-vocabulary/top-3000-words/ -->
+				<!-- https://www.ef.edu/english-resources/english-vocabulary/top-1000-words/ -->
+				<!-- <object data="wordlist.txt" style="height: 150px;"></object> -->
+				<!-- <br> -->
+				<embed src="wordlist.txt">
+				
+				
+				<br><br><br><br><br><br><br><br><br><br>
+				
+				<h4>Person 2: Guess the word based on this clue!</h4>
+				<form name="form2"> 
+				<textarea rows = "5" cols="60" type="text" id="theclueID" name="theclue" size="40" readonly></textarea>
+				<!-- style="margin: 0px; width: 619px; height: 45px;" -->
+				<!-- <p><input type="text" id="theclueID" name="theclue" size="40" style="margin: 0px; width: 400px; height: 50px; overflow: scroll;" readonly></p> -->
+				<!-- multi-line textbox?  -->
+				<p><input type="button" value="Reset textbox" onClick="clear2()"></p>
+				</form>
+
+				
+				<!-- <p>The source code for this application is available for free - just ask!</p> -->
+				
+				
+				
+			</center>
+		</div>
+	
+
+	</div>
+</body>
+</html>
